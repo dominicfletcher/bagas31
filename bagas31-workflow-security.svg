@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-label="Bagas31 system compatibility and safe software installation checklist">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fdf4" />
+      <stop offset="100%" stop-color="#eff6ff" />
+    </linearGradient>
+    <filter id="sh3" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.09" />
+    </filter>
+  </defs>
+
+  <rect width="880" height="440" rx="14" fill="url(#bg3)" />
+  <circle cx="80" cy="80" r="85" fill="#bbf7d0" opacity="0.55" />
+  <circle cx="800" cy="360" r="105" fill="#bfdbfe" opacity="0.5" />
+
+  <!-- Checklist Card -->
+  <g filter="url(#sh3)">
+    <rect x="90" y="44" width="700" height="352" rx="12" fill="#ffffff" stroke="#dcfce7" stroke-width="1.5" />
+  </g>
+
+  <!-- Card Header -->
+  <rect x="118" y="66" width="110" height="30" rx="6" fill="#16a34a" />
+  <text x="173" y="86" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Bagas31</text>
+  <text x="244" y="87" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">Desktop Setup &amp; Compatibility Verification</text>
+  <line x1="118" y1="112" x2="762" y2="112" stroke="#e5e7eb" stroke-width="1.5" />
+
+  <!-- Checklist Items (2x2 Grid) -->
+  <!-- Item 1 -->
+  <rect x="118" y="132" width="308" height="104" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" />
+  <circle cx="148" cy="164" r="14" fill="#16a34a" />
+  <path d="M141 164 L146 169 L156 158" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="174" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#111827">OS &amp; Architecture Check</text>
+  <text x="174" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">Verify Windows 10/11 64-bit</text>
+  <text x="174" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">before installing utilities</text>
+
+  <!-- Item 2 -->
+  <rect x="454" y="132" width="308" height="104" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" />
+  <circle cx="484" cy="164" r="14" fill="#2563eb" />
+  <path d="M477 164 L482 169 L492 158" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="510" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#111827">Storage &amp; RAM Headroom</text>
+  <text x="510" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">Keep disk space clean and</text>
+  <text x="510" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">avoid background bloat</text>
+
+  <!-- Item 3 -->
+  <rect x="118" y="254" width="308" height="104" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" />
+  <circle cx="148" cy="286" r="14" fill="#0284c7" />
+  <path d="M141 286 L146 291 L156 280" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="174" y="282" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#111827">Restore Point &amp; Backups</text>
+  <text x="174" y="302" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">Create system restore points</text>
+  <text x="174" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#475569">for safe workflow changes</text>
+
+  <!-- Item 4 -->
+  <rect x="454" y="254" width="308" height="104" rx="8" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1.2" />
+  <circle cx="484" cy="286" r="14" fill="#15803d" />
+  <path d="M477 286 L482 291 L492 280" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="510" y="282" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#14532d">Clear Documentation</text>
+  <text x="510" y="302" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#166534">Follow Bagas31 release notes</text>
+  <text x="510" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#166534">and verified setup steps</text>
+</svg>
